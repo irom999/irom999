@@ -27,9 +27,12 @@
 </div>
 
 <div align="center">
-<p>Plz check my site 👇</p>
+<p>Plz check my sites 👇</p>
   <a href="https://irom999.com/" target="_blank" alt="portfolio">
     <img src="https://img.shields.io/badge/MY-SITE-purple?style=for-the-badge">
+  </a>
+  <a href="https://irom999.com/cv.pdf" target="_blank" alt="cv">
+    <img src="https://img.shields.io/badge/MY-CV-purple?style=for-the-badge">
   </a>
 </div>
 
