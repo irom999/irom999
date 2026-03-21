@@ -21,7 +21,6 @@
 </div>
 
 <div align="center">
-<p>These are my skills 👇</p>
   <p>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,aws,py,dart,flutter,svelte,sveltekit" />
   </p>
