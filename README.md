@@ -22,7 +22,7 @@
 
 <div align="center">
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,aws,py,dart,flutter,svelte,sveltekit" />
+    <img src="https://skillicons.dev/icons?i=ts,svelte,dart,flutter,py" />
   </p>
 </div>
 
